@@ -2,4 +2,6 @@
 Taller 2 para clonar
 
 ## Creado por:
-Jorge Stiven Pachón García
+Jorge Stiven Pachón García.
+
+Prueba de sincronización.
